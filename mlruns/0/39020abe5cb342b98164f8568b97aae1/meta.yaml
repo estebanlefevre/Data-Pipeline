@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Delivieries%20digi%203/DataPipeline/Data-Pipeline/mlruns/0/39020abe5cb342b98164f8568b97aae1/artifacts
+end_time: 1745331586867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39020abe5cb342b98164f8568b97aae1
+run_name: orderly-carp-266
+run_uuid: 39020abe5cb342b98164f8568b97aae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745331580910
+status: 3
+tags: []
+user_id: root

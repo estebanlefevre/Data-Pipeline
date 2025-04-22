@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Delivieries%20digi%203/DataPipeline/Data-Pipeline/mlruns/0/8a5c18b3e3724c229b62d8ce6c6cc8d9/artifacts
+end_time: 1745332605101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a5c18b3e3724c229b62d8ce6c6cc8d9
+run_name: upset-mule-956
+run_uuid: 8a5c18b3e3724c229b62d8ce6c6cc8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745332600040
+status: 3
+tags: []
+user_id: root
