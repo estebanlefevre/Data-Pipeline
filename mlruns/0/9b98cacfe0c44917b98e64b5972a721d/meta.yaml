@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Delivieries%20digi%203/DataPipeline/Data-Pipeline/mlruns/0/9b98cacfe0c44917b98e64b5972a721d/artifacts
+end_time: 1745312040104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b98cacfe0c44917b98e64b5972a721d
+run_name: wise-stoat-382
+run_uuid: 9b98cacfe0c44917b98e64b5972a721d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745312027104
+status: 3
+tags: []
+user_id: lefev
